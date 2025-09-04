@@ -5,6 +5,4 @@
 |------------------|---------------------|
 | ctc Web and app  | Proventer           |
 | English          | Kuhn                |
-| U.S. History     | Williams            |
-| spanish 1        | online              |
 | person finenatins| online              |
